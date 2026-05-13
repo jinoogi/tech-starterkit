@@ -1,4 +1,8 @@
 *.pdf
 .env
+.vscode
+.venv
+__pycache__
+# 코딩 어시스턴트 .md 파일
 AGENTS.md
 CLAUDE.md
