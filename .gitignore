@@ -1,2 +1,4 @@
 *.pdf
 .env
+AGENTS.md
+CLAUDE.md
